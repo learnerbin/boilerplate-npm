@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
+	"licence":"",
+	"author" : "shabin k "
 	"dependencies": {
 		"express": "^4.14.0"
 	},
